@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="action_insert_dummy_task">Insert Dummy Task</string>
+    <string name="action_delete_all_entries">Delete All Tasks</string>
+    <string name="editor_activity_title_new_pet">Add a Pet</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_priority">Priority</string>
+    <string name="category_time">Date and Time</string>
+    <string name="hint_task_name">Name of task</string>
+    <string name="hint_task_description">Description of the task</string>
+    <string name="hint_task_time">Date and Time</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="priority_low">Low</string>
+</resources>
